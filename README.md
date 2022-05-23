@@ -1,4 +1,8 @@
-The Redmi Note 9 Pro 5G / Mi 10T Lite / Mi 10i (codenamed _"gauguin"_) is a mid-range smartphone from Xiaomi announced in December 2020.
+##The Redmi Note 9 Pro 5G / Mi 10T Lite / Mi 10i PE dependencies. 
+
+
+
+
 
 
 ## Device specifications
@@ -21,9 +25,7 @@ The Redmi Note 9 Pro 5G / Mi 10T Lite / Mi 10i (codenamed _"gauguin"_) is a mid-
 | Front camera            | 20 MP, HDR, panorama                            |
 
 
-## Device picture
 
-![Redmi Note 9 Pro 5G / Mi 10T Lite / Mi 10i](https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/5f5a312e5fa55c4df8aad5cede99c5fe.jpg)
 
 
 ## Copyright
