@@ -1,4 +1,4 @@
-##The Redmi Note 9 Pro 5G / Mi 10T Lite / Mi 10i PE dependencies. 
+## The Redmi Note 9 Pro 5G / Mi 10T Lite / Mi 10i PE dependencies. 
 
 
 
